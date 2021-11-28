@@ -7,4 +7,5 @@
 - Member 3 (Edit)
 - Member 4 (Edit)
 
-## 
+## Project Description
+*This is made for a school project*
