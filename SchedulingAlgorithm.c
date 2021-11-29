@@ -113,10 +113,10 @@ int getJobNumber(){
         printf("Enter number of Jobs: ");
         scanf("%d", &jobNumber);
         fflush(stdin);
-        if(jobNumber < 3 || jobNumber > 10){
+        if(jobNumber < MIN_JOBS || jobNumber > MAX_JOBS){
             printf("Limit Error!\n");
         }
-    } while(jobNumber < 3 || jobNumber > 10);
+    } while(jobNumber < MIN_JOBS || jobNumber > MAX_JOBS);
     printf("\n");
     return jobNumber;
 }
