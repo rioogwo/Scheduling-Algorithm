@@ -3,7 +3,7 @@
 ## Members
 - Pacleb, Nikko Adrian (Leader)
 - Jezreel A. Batara
-- Rio Giovanni Marie L. Ogwo
+- Ogwo, Rio Giovanni Marie 
 - Member 3 (Edit)
 - Member 4 (Edit)
 
